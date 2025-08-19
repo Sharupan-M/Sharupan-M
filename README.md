@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Sharupan
 
-<!--
-**Sharupan-M/Sharupan-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computing & Information Systems Student | 🎬 Video Editor | 💻 Tech Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌍 From Sri Lanka  
+- 📚 Interested in **Web Development, Databases, Java, and Video Editing**  
+- 🎥 Running **MR. Edifx Studios** – freelance video editing brand, creating real estate, vehicle, and marketing videos  
+- 🌱 Currently learning **Git, GitHub, and Web Development**  
+
+---
+
+## 🛠️ Skills & Tools
+- **Languages & Tech:** Java ☕ | HTML | CSS | MySQL | Git  
+- **Editing Tools:** Premiere Pro | DaVinci Resolve | After Effects  
+- **Other:** Photoshop  
+
+---
+## 📫 Connect With Me
+- 📧 Email: *mahenthiransharupan13@gmail.com*  
+---
+
+✨ *“Striving to grow one project at a time.”*
