@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 - 🌍 From Sri Lanka  
-- 📚 Interested in **Web Development, Databases, Java, and Video Editing**  
+- 📚 Interested in **Web Development, Artificial Intelligence, Databases, Java, and Video Editing**  
 - 🎥 Running **MR. Edifx Studios** – freelance video editing brand, creating real estate, vehicle, and marketing videos  
 - 🌱 Currently learning **Git, GitHub, and Web Development**  
 
